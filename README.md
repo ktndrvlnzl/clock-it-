@@ -30,12 +30,3 @@ You can customize the durations in Settings.
 • Python  
 • tkinter  
 • JSON  
-
-No external libraries are required.
-
-## How to Run
-
-Make sure Python is installed, then run:
-
-```bash
-python clock_it.py
