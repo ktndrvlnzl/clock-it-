@@ -4,6 +4,12 @@ A simple and beginner friendly Pomodoro timer built entirely with Python and tki
 
 Clock It! helps students stay focused with customizable study sessions, breaks, tasks, statistics, and session history.
 
+## Live Demo
+
+Try Clock It! here:
+
+https://ktndrvlnzl.github.io/clock-it-/
+
 ## Features
 
 - Focus, Short Break, and Long Break modes
