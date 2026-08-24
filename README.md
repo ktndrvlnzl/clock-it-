@@ -23,21 +23,19 @@ Clock It! helps students stay focused with customizable study sessions, breaks, 
 - Settings that save automatically
 - Session data saved locally
 
-## Pomodoro Flow
+You can customize the durations in Settings.
 
-```text
-25 min Focus
-↓
-5 min Short Break
-↓
-25 min Focus
-↓
-5 min Short Break
-↓
-25 min Focus
-↓
-5 min Short Break
-↓
-25 min Focus
-↓
-15 min Long Break
+## Built With
+
+• Python  
+• tkinter  
+• JSON  
+
+No external libraries are required.
+
+## How to Run
+
+Make sure Python is installed, then run:
+
+```bash
+python clock_it.py
