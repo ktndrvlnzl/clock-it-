@@ -42,22 +42,22 @@ The default Pomodoro cycle is:
 
 Timer durations can be customized in Settings.
 
-Built With
+## Built With
 
-Python
+- Python
 
-tkinter
+- tkinter
 
-JSON
+- JSON
 
 
 No external libraries are required.
 
-How It Works
+## How It Works
 
 Clock It! uses Python and tkinter to create a desktop Pomodoro timer. Your settings and session history are stored locally in a JSON file, allowing your data to remain available between runs.
 
-What I Learned
+## What I Learned
 
 This project helped me practice Python and build a complete desktop application. I practiced:
 
@@ -84,7 +84,7 @@ Building user settings
 Creating a desktop application
 
 
-How to Run
+## How to Run
 
 Make sure Python is installed on your computer.
 
@@ -102,14 +102,14 @@ python clock_it.py
 
 Clock It! will automatically create clock_it_data.json to store your settings and session history.
 
-Project Structure
+## Project Structure
 
 clock-it/
 ├── clock_it.py        # main application
 ├── clock_it_data.json # saved settings and session history
 └── README.md          # project documentation
 
-Future Improvements
+## Future Improvements
 
 Weekly and monthly statistics
 
@@ -126,7 +126,7 @@ More sound options
 Improved task management
 
 
-Author
+## Author
 
 andrea ♡
 
